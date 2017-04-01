@@ -2,8 +2,8 @@
 #include<iostream>
 #include "myfile.cpp"
 using namespace std;
-int main(){
-
+int main()
+{
 int a1 =1;
 long int a = 36463.324;
 float b =121.23;
